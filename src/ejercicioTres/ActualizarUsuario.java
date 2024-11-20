@@ -1,4 +1,7 @@
 package ejercicioTres;
 
-public class ActualizarUsuario {
+public interface ActualizarUsuario {
+    void actualizarFoto();
+
+    void actualizarPrecios();
 }

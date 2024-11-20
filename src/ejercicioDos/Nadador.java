@@ -1,4 +1,6 @@
 package ejercicioDos;
 
-public class Nadador {
+public interface Nadador
+{
+    void nadar();
 }

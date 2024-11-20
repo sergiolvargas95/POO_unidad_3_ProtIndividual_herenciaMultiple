@@ -1,4 +1,6 @@
 package ejercicioDos;
 
-public class Respirador {
+public interface Respirador
+{
+    void respirar();
 }

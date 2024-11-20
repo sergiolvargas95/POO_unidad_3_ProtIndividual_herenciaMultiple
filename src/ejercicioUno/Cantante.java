@@ -1,4 +1,5 @@
 package ejercicioUno;
 
-public class Cantante {
+public interface Cantante {
+    void cantar();
 }

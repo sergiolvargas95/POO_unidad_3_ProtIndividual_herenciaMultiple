@@ -1,4 +1,5 @@
 package ejercicioUno;
 
-public class Volador {
+public interface Volador {
+    void volar();
 }
